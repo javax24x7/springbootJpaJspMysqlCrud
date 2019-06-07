@@ -1,7 +1,7 @@
 # springbootJpaJspMysqlCrud
 Spring boot Jpa Jsp mysql crud demo 
 
-# Whats need to create this project in ecipse
+# Whats need to create this project in eclipse
 1) java 8 or higher version
 2) eclipse photon
 3) mysql workbech
