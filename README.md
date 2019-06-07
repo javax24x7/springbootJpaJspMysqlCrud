@@ -27,5 +27,5 @@ Goto  eclipse marketpace
 
 # you simply import into your environment and learn the program and run it you can also create anther editors like intellij idea etc.
 
-# correct me if any issue found!
-Thanks
+
+Thanks!
