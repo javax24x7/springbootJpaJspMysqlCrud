@@ -8,13 +8,13 @@ Spring boot Jpa Jsp mysql crud demo
 
 # steps to create this project simply
 Goto  eclipse marketpace
-1) Search Spring Tools 4 and instal into your ecipse editor
+1) Search Spring Tools 4 and instal into your eclipse editor
 2) Goto Fie-> New -> Other -> Search 
-  spring starter project 
+  'spring starter project' 
   click next -> enter Name, Group, artifect, descripton
   click next -> search and select
-  Spring Web Starter, Spring Data Jpa, MySql Driver
-  cick finish
+  'Spring Web Starter', 'Spring Data Jpa', 'MySql Driver'
+  click finish
   
   
 # apication.property file
